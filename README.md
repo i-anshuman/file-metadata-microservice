@@ -40,7 +40,7 @@ APIs and Microservices Projects - File Metadata Microservice
       <footer>
         <p>By <a href="https://www.freecodecamp.org/" target="__blank">freeCodeCamp</a></p>
         <p>
-          <span>Check live on <a href="https://i-anshuman-fcc-timestamp-microservice.glitch.me" target="__blank">Glitch</a></span>
+          <span>Check live on <a href="https://i-anshuman-file-metadata-microservice.glitch.me" target="__blank">Glitch</a></span>
           <span>Check source on <a href="https://github.com/i-anshuman/file-metadata-microservice" target="__blank">Github</a></span>
         </p>
       </footer>
